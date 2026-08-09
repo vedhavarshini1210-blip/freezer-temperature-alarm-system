@@ -1,0 +1,42 @@
+# Arduino IDE temporary files
+
+*.hex
+*.elf
+*.eep
+
+# Arduino build files
+
+build/
+out/
+
+# Arduino IDE backups
+
+*.bak
+*.tmp
+
+# OS generated files
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE files
+
+.vscode/
+.idea/
+
+# Temporary files
+
+*.swp
+*.swo
+*~
+
+# Logs
+
+*.log
+
+# Generated data files
+
+data/*.csv
+data/id_counter.txt
+data/payslips/
