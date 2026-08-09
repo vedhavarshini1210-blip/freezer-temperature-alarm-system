@@ -119,8 +119,5 @@ The system can be further developed for:
 
 ## Author
 
-**Project Team**
-
 * Vedha Varshini SR
-* Sujitha M
-* Tanusri
+
